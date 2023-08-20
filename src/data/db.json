@@ -1,22 +1,62 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "username": "usuario1",
-        "name": "Usuario Uno",
-        "email": "usuario1@example.com",
-        "avatar": "link_a_la_imagen.jpg",
-        "followers": [], 
-        "following": [], 
-        "posts": [] 
-      }
-    ],
+  "users": [
+    {
+      "id": 1,
+      "username": "mariapaulina",
+      "name": "Maria Paulina",
+      "email": "mariapaulinap0531@gmail.com",
+      "avatar": "https://www.semana.com/resizer/zVj1MAYjsj_FMfnk-HY9W643RVQ=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/KKOXJESLRBA4VCD27Y4CH3F6G4.jpg",
+      "followers": [],
+      "following": [],
+      "posts": []
+    },
+    {
+      "id": 2,
+      "username": "sebasbarrera",
+      "name": "Sebastian Barrera",
+      "email": "sebas123@gmail.com",
+      "avatar": "https://telemedellin.tv/wp-content/uploads/2021/01/Neyder-Moreno-espera-su-momento-con-Atletico-Nacional.jpg",
+      "followers": [],
+      "following": [],
+      "posts": []
+    },
+    {
+      "id": 3,
+      "username": "juanlopez",
+      "name": "Juan Lopez",
+      "email": "juan.lopez@example.com",
+      "avatar": "https://img.asmedia.epimg.net/resizer/DD8vw-NCyIALqYRODqHLKmpSuIg=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/YNANO3CDKRPRFLNDWEUR5IHD7A.jpg",
+      "followers": [],
+      "following": [],
+      "posts": []
+    },
+    {
+      "id": 4,
+      "username": "lauragonzalez",
+      "name": "Laura Gonzalez",
+      "email": "laura.gonzalez@example.com",
+      "avatar": "https://phantom-telva.unidadeditorial.es/7ec5c58cc3a80dd03e74a2f42fddcdac/resize/640/assets/multimedia/imagenes/2021/01/19/16110603474825.jpg",
+      "followers": [],
+      "following": [],
+      "posts": []
+    },
+    {
+      "id": 5,
+      "username": "andrearojas",
+      "name": "Andrea Rojas",
+      "email": "andrea.rojas@example.com",
+      "avatar": "https://www.latercera.com/resizer/zVXCrdzQ93LQTYWJRpa9IyCEeRs=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/426NOOQY7FDDNEICFKJNVGJSKU.jpg",
+      "followers": [],
+      "following": [],
+      "posts": []
+    }
+  ],
     
     "posts": [
         {
           "id": 1,
           "userId": 1,
-          "url": "https://uchile.cl/.imaging/stk/uchile/nav-lateral-ancho/dam/imagenes/Uchile/imagenes-contenidos-generales/6670_0_1951-gabriela-mistral-01-libro-revuelta_S/jcr:content/1951-gabriela-mistral-01-libro-revuelta.jpg.jpg",
+          "url": "https://www.semana.com/resizer/zVj1MAYjsj_FMfnk-HY9W643RVQ=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/KKOXJESLRBA4VCD27Y4CH3F6G4.jpg",
           "description": "¡Mi primera foto en esta red social!",
           "likes": [],
           "comments": []
@@ -24,7 +64,7 @@
         {
           "id": 2,
           "userId": 1,
-          "url": "https://www.cervantes.es/imagenes/Image/bibliotecas_documentacion_espanol/biobibliografias/mistral_gabriela_retrato.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Carolina_Cruz_2015.jpg/640px-Carolina_Cruz_2015.jpg",
           "description": "Saludos a mis amigos",
           "likes": [],
           "comments": []
@@ -32,7 +72,7 @@
         {
           "id": 3,
           "userId": 1,
-          "url": "https://resources.uss.cl/upload/2022/05/Gabriela-Mistral-vida-y-legado-de-la-premio-nobel-.jpg",
+          "url": "https://www.publimetro.co/resizer/HloQvL9Bca1ybX95YfgDv9SrTDo=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/NLNE7VA6UFD2VBLXPP6SEER7L4.jpg",
           "description": "Que linda foto!",
           "likes": [],
           "comments": []
@@ -40,7 +80,139 @@
         {
           "id": 4,
           "userId": 1,
-          "url": "https://www.poeticous.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN05KQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df51c0ec9d1f83a74291029815b2dd7a71bee109/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZwQWlBRE9neHhkV0ZzYVhSNWFWVT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c8b8f014ff241bb6b91d3ce431f887dca94f0f00/gabriela-mistral.jpeg?locale=es",
+          "url": "https://redmas.com.co/__export/1686945652968/sites/redmas/img/2023/06/16/carolina-cruz-muestra-evolucion-de-su-hijo.jpg_1103262874.jpg",
+          "description": "Feliz!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 5,
+          "userId": 4,
+          "url": "https://static.wikia.nocookie.net/doblaje/images/1/13/Mila-kunis-2018.jpg/revision/latest?cb=20180729012640&path-prefix=es",
+          "description": "¡Mi primera foto en esta red social!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 6,
+          "userId": 4,
+          "url": "https://hips.hearstapps.com/hmg-prod/images/mila-kunis-1665134660.jpg?crop=0.8893229166666666xw:1xh;center,top&resize=1200:*",
+          "description": "Saludos a mis amigos",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 7,
+          "userId": 4,
+          "url": "https://pbs.twimg.com/profile_images/1575556515272032267/0RMT3Hun_400x400.jpg",
+          "description": "Que linda foto!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 8,
+          "userId": 4,
+          "url": "https://www.clarin.com/img/2014/07/08/HyWdR5B07e_1256x620.jpg",
+          "description": "Feliz!",
+          "likes": [],
+          "comments": []
+        }, 
+
+        {
+          "id": 9,
+          "userId": 2,
+          "url": "https://img.asmedia.epimg.net/resizer/wjfFr9FI5btiBnJsWcUurKdrIgU=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IRJ4EI3P5VNC3JBHJZ6LKBDPIQ.jpg",
+          "description": "¡Mi primera foto en esta red social!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 10,
+          "userId": 2,
+          "url": "https://futbolete.com/wp-content/uploads/2020/07/Neyder-Moreno-Atl%C3%A9tico-Nacional-Envigado-FC.jpg",
+          "description": "Saludos a mis amigos",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 11,
+          "userId": 2,
+          "url": "https://futbolete.com/wp-content/uploads/2023/07/atletico-nacional-neyder-moreno-once-caldas-1200x900.jpg",
+          "description": "Que linda foto!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 12,
+          "userId": 2,
+          "url": "https://files.antena2.com/antena2/public/2021-02/neydemorenatletiameri11_1_0.jpg?VersionId=ImVKgBz3RBrYT0sPCiiJG_XQKfCE427N",
+          "description": "Feliz!",
+          "likes": [],
+          "comments": []
+        }, 
+
+
+        {
+          "id": 13,
+          "userId": 3,
+          "url": "https://img.asmedia.epimg.net/resizer/DD8vw-NCyIALqYRODqHLKmpSuIg=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/YNANO3CDKRPRFLNDWEUR5IHD7A.jpg",
+          "description": "¡Mi primera foto en esta red social!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 14,
+          "userId": 3,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUom11xvTibj7w-T4Thb6wKJTEZxdW6evJZSouoaMlTfF4KpFXAZqSqqwlnvaxUS5Ikw8&usqp=CAU",
+          "description": "Saludos a mis amigos",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 15,
+          "userId": 3,
+          "url": "https://depor.com/resizer/h9O1Wa9Ol8bsEB7yZUARf_PY_B8=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/K7CSGOI26BGGVJPSHPGRDNDDNI.webp",
+          "description": "Que linda foto!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 16,
+          "userId": 3,
+          "url": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt66dd09e98fe75e2d/635abda31d89310c5cb6424a/GOAL-PODCAST-1920x1080-NAZARIO.png?auto=webp&format=pjpg&width=3840&quality=60",
+          "description": "Feliz!",
+          "likes": [],
+          "comments": []
+        },
+
+        {
+          "id": 17,
+          "userId": 5,
+          "url": "https://media.vogue.mx/photos/5eb1adab5adaf1625f92effc/1:1/pass/undefined",
+          "description": "¡Mi primera foto en esta red social!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 18,
+          "userId": 5,
+          "url": "https://www.biografiasyvidas.com/biografia/k/fotos/kahlo_autorretrato_monos.jpg",
+          "description": "Saludos a mis amigos",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 19,
+          "userId": 5,
+          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1391D/production/_102075108_frida-kahlo-with-olmec-figu.gif",
+          "description": "Que linda foto!",
+          "likes": [],
+          "comments": []
+        }, 
+        {
+          "id": 20,
+          "userId": 5,
+          "url": "https://www.latercera.com/resizer/zVXCrdzQ93LQTYWJRpa9IyCEeRs=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/426NOOQY7FDDNEICFKJNVGJSKU.jpg",
           "description": "Feliz!",
           "likes": [],
           "comments": []
