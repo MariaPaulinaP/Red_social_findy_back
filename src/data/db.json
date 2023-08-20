@@ -18,7 +18,7 @@
           "userId": 1,
           "url": "https://uchile.cl/.imaging/stk/uchile/nav-lateral-ancho/dam/imagenes/Uchile/imagenes-contenidos-generales/6670_0_1951-gabriela-mistral-01-libro-revuelta_S/jcr:content/1951-gabriela-mistral-01-libro-revuelta.jpg.jpg",
           "description": "¡Mi primera foto en esta red social!",
-          "likes": 1,
+          "likes": [],
           "comments": []
         }, 
         {
@@ -26,7 +26,7 @@
           "userId": 1,
           "url": "https://www.cervantes.es/imagenes/Image/bibliotecas_documentacion_espanol/biobibliografias/mistral_gabriela_retrato.png",
           "description": "Saludos a mis amigos",
-          "likes": 2,
+          "likes": [],
           "comments": []
         }, 
         {
@@ -34,7 +34,7 @@
           "userId": 1,
           "url": "https://resources.uss.cl/upload/2022/05/Gabriela-Mistral-vida-y-legado-de-la-premio-nobel-.jpg",
           "description": "Que linda foto!",
-          "likes": 2,
+          "likes": [],
           "comments": []
         }, 
         {
@@ -42,7 +42,7 @@
           "userId": 1,
           "url": "https://www.poeticous.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN05KQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df51c0ec9d1f83a74291029815b2dd7a71bee109/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2d0eVpYTnBlbVZwQWlBRE9neHhkV0ZzYVhSNWFWVT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--c8b8f014ff241bb6b91d3ce431f887dca94f0f00/gabriela-mistral.jpeg?locale=es",
           "description": "Feliz!",
-          "likes": 2,
+          "likes": [],
           "comments": []
         }
       ], 
